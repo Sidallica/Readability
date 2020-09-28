@@ -1,5 +1,7 @@
 # Readability
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
+
 
 A program that computes the approximate grade level needed to comprehend some text
 Implement a program that computes the approximate grade level needed to comprehend some text, per the below.
